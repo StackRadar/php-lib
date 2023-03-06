@@ -1,0 +1,7 @@
+{
+    "name": "stackradar/stackradar",
+    "description": "StackRadar",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
